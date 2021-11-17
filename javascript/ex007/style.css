@@ -1,0 +1,12 @@
+body {
+    background-color: lightskyblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+main {
+    background-color: white;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 20px;
+}
